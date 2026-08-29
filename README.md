@@ -132,7 +132,7 @@ Os testes de API foram realizados via Postman, validando os seguintes endpoints:
 
 ---
 
-## 🐛 Bugs Encontrados (Destaques)
+## 🐛 Bugs Encontrados (exemplos)
 
 ### Bug 1 (Frontend): Campo "Nome" aceita apenas espaços em branco
 - **Severidade:** Média
